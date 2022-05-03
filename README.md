@@ -1,2 +1,21 @@
-# Practicum_data_analysis_projects
-This repository contains projects completed during the passage of the "Data Science specialist" program in Yandex.Practicum.
+# Проекты
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" / "Специалист по Data Science".
+
+## Описания проектов
+
+| Название проекта | Описание |
+|----------------|----------------|
+| [Исследование надёжности заёмщиков](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Investigation_reliability_borrowers) | На основе данных клиентов исследовать влияение семейного положение, количества детей клиента на факт возврата кредита в срок. |
+| [Исследование перспективного тарифа для телеком компании](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Investigation_best_tariff_telecom) | Определение выгодного тарифного плана для корректировки рекламного бюджета телеком компании. |
+| [Анализ рынка недвижимости в Санкт-Петербурге](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Investigation_ads_sellable_apartments) | На основе данных сервиса Яндекс.Недвижимость определить рыночную стоимость объектов недвижимости и типичные параметры квартир в Санкт-Петербурге. |
+| [Исследование спроса для авиакомпании](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Airlaine_investigation) | Изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали. |
+| [Выбор региона для разработки новых нефтяных месторождений](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Development_new_fields) | Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков. |
+| [Исследование оттока клиентов банка](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Investigation_outflow_customers) | Проведение анализа оттока клиентов из банка для выбор стратегии удержания старых клиентов или привлечение новых клиентов. |
+| [Исследование закономерностей, определяющих успешность игр](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Investigation_success_games) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры. |
+| [Разработка алгоритма для защиты данных](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Algorithm_data_security) | Методом преобразования данных защитить личную информацию клиентов страховой компании. |
+| [Модель для металлообрабатывающего предприятия](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Model_for_metalworking_enterprise) | Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды. |
+| [Прогнозирование заказов такси](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Taxi_orders_prediction) | Обучить модель для предсказания количества заказов такси на следующий час. |
+| [Определение возраста по фото](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Computer%20vision_age) | Построить модель, которая по фотографии определит приблизительный возраст человека. |
+| [Классификация комментариев](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Classification_%20comments) | Необходимо обучить модель классифицировать комментарии на позитивные и негативные. |
+| [Предсказание цены автомобиля](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Car_price_prediction) | Обучить модель для определения рыночной стоимости автомобиля. |
+| [Предсказание температуры стали](https://github.com/cherepanova-nastya/Practicum_data_analysis_projects/tree/main/Steel_temperature_prediction) | Для оптимизации производственных расходов, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. Необходимо построить модель, которая предскажет температуру стали. |
